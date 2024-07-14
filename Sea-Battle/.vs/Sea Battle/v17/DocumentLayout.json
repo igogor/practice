@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\",
+  "WorkspaceRootPath": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\practice\\sea-battle\\sea battle\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\fullscreenmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\fullscreenmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\fullscreenmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\aiintellectual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\aiintellectual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\aiintellectual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\aipurerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\aipurerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\aipurerandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\playerwonwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\playerwonwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\playerwonwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\manualplaceshipswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\manualplaceshipswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\manualplaceshipswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\tutorial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\tutorial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\tutorial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|c:\\documents\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sea-battle-master\\sea battle\\initwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\sea battle\\initwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33AC12BD-27E4-49A6-B9EC-405BABB8B17A}|Sea Battle\\Sea Battle.csproj|solutionrelative:sea battle\\initwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -64,94 +64,87 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ISolver.cs",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\ISolver.cs",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\ISolver.cs",
               "RelativeDocumentMoniker": "Sea Battle\\ISolver.cs",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\ISolver.cs",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\ISolver.cs",
               "RelativeToolTip": "Sea Battle\\ISolver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T16:39:06.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T16:39:06.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Tutorial.xaml",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\Tutorial.xaml",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\Tutorial.xaml",
               "RelativeDocumentMoniker": "Sea Battle\\Tutorial.xaml",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\Tutorial.xaml",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\Tutorial.xaml",
               "RelativeToolTip": "Sea Battle\\Tutorial.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T12:30:29.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:30:29.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\App.xaml",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\App.xaml",
               "RelativeDocumentMoniker": "Sea Battle\\App.xaml",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\App.xaml",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\App.xaml",
               "RelativeToolTip": "Sea Battle\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T12:29:33.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:29:33.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "InitWindow.xaml",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\InitWindow.xaml",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\InitWindow.xaml",
               "RelativeDocumentMoniker": "Sea Battle\\InitWindow.xaml",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\InitWindow.xaml",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\InitWindow.xaml",
               "RelativeToolTip": "Sea Battle\\InitWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T12:28:44.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:28:44.843Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GameWindow.xaml",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\GameWindow.xaml",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\GameWindow.xaml",
               "RelativeDocumentMoniker": "Sea Battle\\GameWindow.xaml",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\GameWindow.xaml",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\GameWindow.xaml",
               "RelativeToolTip": "Sea Battle\\GameWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T12:28:37.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:28:37.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ManualPlaceShipsWindow.xaml",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\ManualPlaceShipsWindow.xaml",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\ManualPlaceShipsWindow.xaml",
               "RelativeDocumentMoniker": "Sea Battle\\ManualPlaceShipsWindow.xaml",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\ManualPlaceShipsWindow.xaml",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\ManualPlaceShipsWindow.xaml",
               "RelativeToolTip": "Sea Battle\\ManualPlaceShipsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T12:28:18.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:28:18.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PlayerWonWindow.xaml",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\PlayerWonWindow.xaml",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\PlayerWonWindow.xaml",
               "RelativeDocumentMoniker": "Sea Battle\\PlayerWonWindow.xaml",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\PlayerWonWindow.xaml",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\PlayerWonWindow.xaml",
               "RelativeToolTip": "Sea Battle\\PlayerWonWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-13T12:28:04.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:28:04.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameField.cs",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\GameField.cs",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\GameField.cs",
               "RelativeDocumentMoniker": "Sea Battle\\GameField.cs",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\GameField.cs",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\GameField.cs",
               "RelativeToolTip": "Sea Battle\\GameField.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsBAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,53 +155,49 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GameEngine.cs",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\GameEngine.cs",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\GameEngine.cs",
               "RelativeDocumentMoniker": "Sea Battle\\GameEngine.cs",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\GameEngine.cs",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\GameEngine.cs",
               "RelativeToolTip": "Sea Battle\\GameEngine.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAAABIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T12:24:34.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:24:34.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FullscreenMessage.cs",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\FullscreenMessage.cs",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\FullscreenMessage.cs",
               "RelativeDocumentMoniker": "Sea Battle\\FullscreenMessage.cs",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\FullscreenMessage.cs",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\FullscreenMessage.cs",
               "RelativeToolTip": "Sea Battle\\FullscreenMessage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T12:24:31.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:24:31.236Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AIPureRandom.cs",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\AIPureRandom.cs",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\AIPureRandom.cs",
               "RelativeDocumentMoniker": "Sea Battle\\AIPureRandom.cs",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\AIPureRandom.cs",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\AIPureRandom.cs",
               "RelativeToolTip": "Sea Battle\\AIPureRandom.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T12:24:27.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:24:27.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AIIntellectual.cs",
-              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\AIIntellectual.cs",
+              "DocumentMoniker": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\AIIntellectual.cs",
               "RelativeDocumentMoniker": "Sea Battle\\AIIntellectual.cs",
-              "ToolTip": "C:\\Documents\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sea-Battle-master\\Sea Battle\\AIIntellectual.cs",
+              "ToolTip": "C:\\Documents\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\practice\\Sea-Battle\\Sea Battle\\AIIntellectual.cs",
               "RelativeToolTip": "Sea Battle\\AIIntellectual.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T12:24:26.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:24:26.022Z"
             }
           ]
         }
