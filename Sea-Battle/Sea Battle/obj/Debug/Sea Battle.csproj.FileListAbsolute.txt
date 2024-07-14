@@ -1,0 +1,28 @@
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\bin\Debug\Sea Battle.exe.config
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\bin\Debug\Sea Battle.exe
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\bin\Debug\Sea Battle.pdb
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\bin\Debug\FluentWPF.dll
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.csproj.AssemblyReference.cache
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\ColorPaletteWindow.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\InitWindow.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\GameWindow.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\ManualPlaceShipsWindow.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\PlayerWonWindow.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Tutorial.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\App.g.cs
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle_MarkupCompile.cache
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle_MarkupCompile.lref
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\App.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\ColorPaletteWindow.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\InitWindow.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\GameWindow.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\ManualPlaceShipsWindow.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\PlayerWonWindow.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Tutorial.baml
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.g.resources
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea_Battle.Properties.Resources.resources
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.csproj.GenerateResource.cache
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.csproj.CoreCompileInputs.cache
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.csproj.Up2Date
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.exe
+C:\Documents\OneDrive\Рабочий стол\Sea-Battle-master\Sea Battle\obj\Debug\Sea Battle.pdb
